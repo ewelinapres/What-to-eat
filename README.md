@@ -4,5 +4,5 @@
 
 [PL] Projekt zespołowy, którego celem jest stworzenie aplikacji pomagającej użytkownikom wybrać, co by chcieli zjeść.
 
-Contributors:
+Authors:
 Ewelina Preś, Klara Pluta
